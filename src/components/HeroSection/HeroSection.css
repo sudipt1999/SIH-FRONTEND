@@ -1,0 +1,12 @@
+#hero__jumbotron {
+    min-height: 90vh;
+    padding: 0px !important;
+    margin: 0px !important;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+#hero__container {
+    margin: auto auto;
+}

@@ -1,0 +1,19 @@
+#signup__container {
+    min-height: 100vh;
+}
+
+#signup__bg__green {
+    background-color: aquamarine;
+}
+
+.signup__minheight__100 {
+    min-height: 100vh;
+}
+
+.signup__link {
+    color: blue;
+}
+
+.signup__link:hover {
+    cursor: pointer;
+}
